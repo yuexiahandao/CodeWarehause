@@ -1,0 +1,1 @@
+Do more and more work! I found that we always do the same things! To avoid this, I decide to add my own codes to do the common things!
