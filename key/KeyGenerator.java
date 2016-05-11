@@ -1,4 +1,4 @@
-package com.line0.zlopen.api.service.cache.key;
+package com.cache.key;
 
 
 public class KeyGenerator {
